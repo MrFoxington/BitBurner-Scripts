@@ -1,0 +1,42 @@
+The goal is to build a scipt that will be able to automate all hacking progressions from new bitnode to end.
+
+- Build G.O.D script
+    - Build Stage 1-3 scripts
+
+- Build Foundational Scripts
+    - Ram Lite scripts
+        - lite_hack
+        - lite_grow
+        - lite_weaken
+    - Rooting script
+        - root all servers
+            - best for income
+            - best for Ram
+            - remaining? (is it worth it?)
+
+- Build Scripts for stage 1
+- Build Scripts for stage 2
+- Build Scripts for stage 3
+
+
+Stage 1:
+    - Hack all t0 servers.
+    - User servers to hack best t0 server for income.
+        - MAAAATH to determin which server is best.
+        - Cheat and just hardcode the easiest?
+        - Pass in host as parameter?
+    - Distributed processing using all hacked t0 servers.
+        -     
+    - Get enough money to purchase a single high ql player server 
+        - Itterate till a certain quality is achieved
+    - Proceed to Stage 2
+        - Proceed when enough servers or sufficient quality?
+        - Potentially reaching enough income /sec?
+        - Potentially use hacking level /experience?
+Stage 2:
+    - Proceed to hack t1-4 servers
+    - Establish secure player server farm and optimize income
+    - AUGMENTS!
+Stage 3:
+    - Stomp the servers
+    - Automate W0rld Demon hack.
