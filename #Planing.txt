@@ -33,6 +33,8 @@ Stage 1:
         - Proceed when enough servers or sufficient quality?
         - Potentially reaching enough income /sec?
         - Potentially use hacking level /experience?
+Stage 1.5:
+    - Have home RAM high enough to skil distritubted hacking to simplify stage 
 Stage 2:
     - Proceed to hack t1-4 servers
     - Establish secure player server farm and optimize income
