@@ -3,6 +3,8 @@ const hosts_t1 = ["CSEC", "zer0", "neo-net", "iron-gym", "max-hardware"];
 const hosts_t2 = ["phantasy", "omega-net", "avmnite-02h", "the-hub", "johnson-ortho", "silver-helix", "crush-fitness"];
 const hosts_t3 = ["rothman-uni", "catalyst", "rho-construction", "summit-uni", "comptek", "netlink", "I.I.I.I", "millenium-fitness"];
 const hosts_t4 = ["aevum-police", "global-pharm", "lexo-corp", "alpha-ent", "snap-fitness", "unitalife", "syscore", "zb-def", "univ-energy", "nova-med"];
+const hosts_t5 = ["zb-institute", "solaris", "vitalife", "deltaone", "helios", "microdyne", "titan-labs", "zeus-med", "galactic-cyber", "aerocorp", "icarus", "omnia", "taiyang-digital", "infocomm", "defcomm", "omnitek", "stormtech", "4sigma", "powerhouse-fitness", "b-and-a", "blade", "clarkinc", "fulcrumtech", "kuai-gong", "nwo", "ecorp", "megacorp", "fulcrumassets"];
+
 
 
 export async function main(ns) {
@@ -17,6 +19,7 @@ function run(ns){
     if (portHacks >= 2) { rootHosts(ns, hosts_t2); }
     if (portHacks >= 3) { rootHosts(ns, hosts_t3); }
     if (portHacks >= 4) { rootHosts(ns, hosts_t4); }
+    if (portHacks >= 5) { rootHosts(ns, hosts_t5); }
 }
 
 function portHacksAvailable(ns){
